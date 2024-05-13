@@ -1,0 +1,111 @@
+{
+    "intents": [
+        {
+            "tag": "pembukaan",
+            "patterns": [
+                "hi",
+                "hello",
+                "hai",
+                "selamat siang",
+                "selamat malam",
+                "hallo",
+                "halo",
+                "hay"
+            ],
+            "responses": [
+                "Hallo!",
+                "Hello!",
+                "Hai!",
+                "ada yang bisa saya bantu?",
+                "masalah apa yang sedang kamu hadapi?",
+                "Hallo, bagaimana kabar mu?",
+                "Hai, Aku baby gpt, ada yang aku bantu?",
+                "Hello, apa yang dapat saya bantu?"
+            ]
+        },
+        {
+            "tag": "ktp",
+            "patterns": [
+                "bagaimana jika petani sudah tidak memiliki KTP asli hilang",
+                "bagaimana jika ktp hilang",
+                "Apa langkah-langkah yang dapat diambil oleh seorang petani yang kehilangan Kartu Tanda Penduduk (KTP) aslinya",
+                "Apakah ada alternatif lain yang dapat digunakan oleh petani jika mereka kehilangan KTP asli mereka"
+            ],
+            "responses": [
+                "belum diatur dalam juknis, mengikuti kebijakan lapangan",
+                "Pelaksanaan kegiatan tersebut masih menunggu petunjuk teknis resmi karena belum diatur dalam juknis yang relevan",
+                "Dalam situasi ini, langkah-langkah yang diambil akan mengikuti kebijakan lapangan yang ada saat ini"
+            ]
+        },
+        {
+            "tag": "gagal_login",
+            "patterns": [
+                "aplikasi tidak bisa masuk",
+                "username dan password tidak cocok",
+                "anda hanya bisa login pada perangkat",
+                "kode retail tidak ditemukan",
+                "saya sudah login tapi aplikasinya saya hapus trus mau masuk lagi tidak bisa",
+                "tidak bisa masuk karena sudah terdaftar diperangkat lain padahal cuma handphone awalnya di uninstall setelah itu di instal lagi setelah mau masuk tidak bisa masuk karena sudah terdaftar diperangkat lain",
+                "status kios tidak aktif",
+                "log out perangkat lain yang sudah pernah masuk",
+                "belum pernah download tetapi perangkat sudah pernah login",
+                "tidak bisa login ipubers kata sandi salah terus",
+                "tidak bisa login",
+                "salah masukkan di no hp lain",
+                "tidak bisa terdaftar setelah lengkap diisi bertuliskan perabgkat terpakai padahal tdk ada yg memakai",
+                "lupa password",
+                "saya sudah log out ke semua perangkat tetapi tidak bisa login kembali",
+                "tidak bisa masuk ada pemberitahuan aplikasi ada yang akses",
+                "kendala tidak bisa login username sama password nya padahal sudah benar",
+                "tidak bisa login sudah kurang lebih hari",
+                "tidak bisa login keaplikasi username tidak ditemukan",
+                "akunnya sudah pernah masuk",
+                "kapan iplikasi ini bisa di gunakan"
+            ],
+            "responses": [
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone.",
+                "Mohon maaf atas kendala yang sedang kamu hadapi, sepertinya kamu mengalami kesalahan pada saat login. Jika masalah yang kamu hadapi adalah kesalahan kode kios atau password maka pastikan bahwa kode kios dan password yang diinput sudah benar. Jika masih belum bisa login maka cobalah untuk restart handphone."
+            ]
+        },
+        {
+            "tag": "penutupan",
+            "patterns": [
+                "baik, terima kasih",
+                "goodbye",
+                "terima kasih",
+                "makasih",
+                "makasih ya",
+                "selesai",
+                "terima kasih"
+            ],
+            "responses": [
+                "Sampai jumpa lagi!",
+                "Sampai jumpa kembali!",
+                "Terima kasih kembali",
+                "Terima kasih, senang dapat membantu anda",
+                "Terima kasih, senang dapat membantu anda",
+                "Terima kasih, senang dapat membantu anda",
+                "Terima kasih, senang dapat membantu anda"
+            ]
+        }
+    ]
+}
