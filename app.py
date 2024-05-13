@@ -14,6 +14,10 @@ CORS(app)  # Enable CORS for all routes
 # Set Flask app debug mode based on environment variable FLASK_DEBUG
 app.config['DEBUG'] = os.getenv('FLASK_DEBUG', False)
 
+@app.route("/")
+def home():
+    return jsonify({"home": "Hello!"})
+
 # Define predict route
 @app.route("/predict", methods=["POST"])
 def predict():
